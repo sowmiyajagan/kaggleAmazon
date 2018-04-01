@@ -1,4 +1,4 @@
-<h1>Planet: Understanding the Amazon from Space<h1>
+<h1>Planet: Understanding the Amazon from Space</h1>
 
 
 Use satellite data to track the human footprint in the Amazon rainforest.
